@@ -46,15 +46,4 @@ Me chamo Mariana Moraes R. dos Santos, tenho 18 anos e sou natural do Rio de Jan
 </div>
 
 
-### 📊 Estatísticas
 
-<p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marimoraess&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
