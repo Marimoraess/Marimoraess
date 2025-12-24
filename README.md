@@ -1,6 +1,5 @@
 # 👩🏽‍💻 Mariana Moraes
 
-**`Desenvolvedora FullStack`**
 
 Me chamo Mariana Moraes R. dos Santos, tenho 18 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no IFSP, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação na UFF.
 
